@@ -1,4 +1,4 @@
-
+[![MasterHead](https://tenor.com/view/devsecops-security-devops-gif-13343220)]
 
 Hey there,
 
@@ -6,7 +6,7 @@ Hey there,
 
 
 <h1 align="center">Hi 👋, I'm jose</h1>
-I'm jose, a full-stack Developer , front-end oriented based in Belgium, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently transiting to DevOps with an intesive training of 7 months, and looking for an internship for October.
+A full-stack Developer , front-end oriented based in Belgium, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently transiting to DevOps with an intesive training of 7 months, and looking for an internship for October.
 
 </br>
 
