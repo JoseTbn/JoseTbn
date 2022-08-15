@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/anK3wYgF-egAAAAC/devsecops-security.gif)]
+![MasterHead](https://c.tenor.com/anK3wYgF-egAAAAC/devsecops-security.gif)
 
 Hey there,
 
