@@ -8,6 +8,8 @@ Hey there,
 <h1 align="center">Hi 👋, I'm jose</h1>
 I'm jose, a full-stack Developer , front-end oriented based in Belgium, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently transiting to DevOps with an intesive training of 7 months, and looking for an internship for October.
 
+</br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josetbn" alt="josetbn" /></a> </p>
 
 - 🌱 I’m currently learning **DevSecOps**
