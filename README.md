@@ -26,3 +26,4 @@ A full-stack Developer , front-end oriented based in Belgium, Who is passionate 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josetbn&show_icons=true&locale=en&layout=compact" alt="josetbn" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josetbn&show_icons=true&locale=en" alt="josetbn" /></p>
+https://www.buzzfeed.com/holliaman/check-out-this-helpful-quiz-to-find-your-new-favor-xc2sv5j6u
