@@ -5,15 +5,16 @@ Hey there,
 
 
 
-<h1 align="center">Hi 👋, I'm jose</h1>
-A full-stack Developer , front-end oriented based in Belgium, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently transiting to DevOps with an intesive training of 7 months, and looking for an internship for October.
+<h1 align="center"> Humblely S2n2none  👋</h1>
+
+Been a Dev
 
 <br>
 <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josetbn" alt="josetbn" /></a> </p>
 
-- 🌱 I’m currently working in **DevSecOps** with ansible modules development 
+- 🌱 Now a **DevSecOps** passionate  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
